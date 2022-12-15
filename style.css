@@ -6,6 +6,9 @@
     font-size: 1.3rem;
     font-family: sans-serif;
 }
+img{
+    width: 50%;
+}
 
 body {
     text-align: center;
